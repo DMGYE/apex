@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "project": "",
+  "folder": "",
+  "type": "software|strategy|marketing|mixed",
+  "description": "",
+  "currentPhase": "01-inicio",
+  "status": "active",
+  "createdAt": "",
+  "lastRun": "",
+  "pm": "",
+
+  "completedPhases": [],
+
+  "inProgress": [],
+
+  "pendingPlanning": [],
+
+  "approvals": {}
+}
